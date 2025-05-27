@@ -1,0 +1,26 @@
+body {
+    background-color: lightblue;
+    color: navy;
+    font-family: sans-serif;
+  }
+  
+  h1 {
+    color: green;
+    text-align: center;
+  }
+  
+  p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  .destaque {
+    background-color: yellow;
+    font-weight: bold;
+  }
+  
+  #rodape {
+    font-size: 12px;
+    color: gray;
+    text-align: right;
+  }
